@@ -1,3 +1,7 @@
+TIC TAC TOE
+------------
+Written in Javascript.
+
 This is a small game that has multiple game modes.
 
 1) Multiplayer: which allows you to play against someone else.
